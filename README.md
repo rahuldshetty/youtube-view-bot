@@ -7,6 +7,7 @@ A Youtube View bot which works by using proxies and selenium IDE. Load the proci
 
 # How to Use
 Run the script and enter the URL. Make sure to have Firefox with private mode on and has auto sound play as enabled. Profit?
-Probably the script just gives you the inital count of views. Change the Timeout to increase the loading time.
+Probably the script just gives you the inital count of views. Change the Timeout to increase the loading time. Change Thread count to load multiple sessions and use.
+
 
 NOTE: To close the program use Task manager and quit the python instance of the application...
